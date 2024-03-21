@@ -6,9 +6,9 @@ class NaturalNumber{
 		System.out.println("Enter Number");
 		double number=sc.nextDouble();
 		if(number>0){
-			System.out.println("Positiv");
+			System.out.println("Positive");
 		}else if(number<0){
-			System.out.println("Negetiv");
+			System.out.println("Negetive");
 		}else if(number==0){
 			System.out.println("Netural");
 		}
